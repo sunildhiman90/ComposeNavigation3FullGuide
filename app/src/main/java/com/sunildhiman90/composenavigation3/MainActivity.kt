@@ -16,7 +16,8 @@ class MainActivity : ComponentActivity() {
                 //Nav3Example1()
                 //Nav3Example2()
                 //Nav3BottomBarNestedNavigation()
-                Nav3BottomBarSeparateNavigation()
+                //Nav3BottomBarSeparateNavigation()
+                Nav3AdaptiveListDetail()
 
             }
         }
