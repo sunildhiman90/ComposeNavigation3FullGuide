@@ -15,9 +15,15 @@ class MainActivity : ComponentActivity() {
 
                 //Nav3Example1()
                 //Nav3Example2()
+
+                // Comment other methods and Uncomment this to test Nav3BottomBarSeparateNavigation
                 //Nav3BottomBarNestedNavigation()
-                //Nav3BottomBarSeparateNavigation()
-                Nav3AdaptiveListDetail()
+
+                // Comment other methods and Uncomment this to test Nav3BottomBarSeparateNavigation
+                Nav3BottomBarSeparateNavigation()
+
+                //Comment other methods and Uncomment this to test Nav3AdaptiveListDetail
+                //Nav3AdaptiveListDetail()
 
             }
         }
